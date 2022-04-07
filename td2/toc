@@ -1,0 +1,96 @@
+.br
+1 TD N\[u00B0]1 : L'AOP En Mono-Alimentation\ \ \ \ \ \ \ \ 1
+.br
+.in +5n
+1. Exercice n\[u00B0] 1 : Amplificateur inverseur\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2. Exercice n\[u00B0] 2 : Inverseur et filtre\ \ \ \ \ \ \ \ 2
+.in -5n
+.br
+.in +5n
+3. Exercice n\[u00B0] 3 : Amplificateur non inverseur\ \ \ \ \ \ \ \ 3
+.in -5n
+.br
+2 TD N\[u00B0]2 : Comportement de l'AOP en fonction de la fr\[u00E9]quence\ \ \ \ \ \ \ \ 5
+.br
+.in +5n
+1. Exercice n\[u00B0] 1 : Conservation du produit Gain Bande\ \ \ \ \ \ \ \ 5
+.in -5n
+.br
+.in +5n
+2. Exercice n\[u00B0] 2 : Tra\[u00E7]age\ \ \ \ \ \ \ \ 6
+.in -5n
+.br
+.in +5n
+3. Exercice n\[u00B0]3 : Faut monter les \[u00E9]tages \[u00E0] pieds\ \ \ \ \ \ \ \ 6
+.in -5n
+.br
+.in +5n
+1. \[u00C9]tude d'un montage amplificateur source commune \[u00E0] MOSFET et charge passive\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.1. Repr\[u00E9]sentation du sch\[u00E9]ma \[u00E9]quivalent du montage\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.2. Calcul de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,G\&S\/\f[R]0\/\fP\s[1000u]\(EQ\h'15641u-6356u'\E*[0rfont], \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,g\/\Z\(EQ\v'1606u'\s[700u]\h'-287u'\,m\/\s[1000u]\(EQ\h'9178u-4227u'\E*[0rfont], et le gain \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,A\/\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.3. Mesure de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,D\/\f[R]0\/\fP\s[1000u]\(EQ\h'12676u-6356u'\E*[0rfont] et \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,I\/\Z\(EQ\v'1606u'\s[700u]\h'-632u'\,D\/\f[R]0\/\fP\s[1000u]\(EQ\h'11672u-4348u'\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.4. Augmenter la valeur de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,G\/\s[1000u]\(EQ\h'9511u-6356u'\E*[0rfont] jusqu'\[u00E0] \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,D\/\s[1000u]\(EQ\h'9876u-6356u'\h'28M'\f[R]\,\[eq]\/\fP\h'28M'\f[R]\,3\/\fP\h'28M'\,V\/\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.5. Mesure du gain \[u00E0] vide\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.6. Calcul de la valeur de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,g\/\Z\(EQ\v'1606u'\s[700u]\h'-287u'\,m\/\s[1000u]\(EQ\h'9178u-4227u'\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.7. Mesure de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,i\&n\/\Z\(EQ\v'1124u'\s[500u]\h'-0u'\f[R]max\f[2]\s[700u]\(EQ\h'11303u-3578u'\s[1000u]\(EQ\h'17968u-6356u'\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.8. Mesure du gain \[u00E0] charge\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.9. Pourquoi peut-on n\[u00E9]gliger l'imp\[u00E9]dence du condensateur?\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.10. Expression du gain en tension en charge en fonction du gain en tension \[u00E0] vide\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+1.11. D\[u00E9]duire l'expression de \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,Z\/\Z\(EQ\v'1606u'\s[700u]\h'-581u'\,o\&u\&t\/\s[1000u]\(EQ\h'13898u-6069u'\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2. \[u00C9]tude d'un montage amplificateur Source Commune \[u00E0] MOSFET et charge active\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2.1. Sch\[u00E9]ma \[u00E9]quivalent en courant alternatif\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2.2. Trouver \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,B\&I\&A\&S\/\s[1000u]\(EQ\h'19203u-6356u'\E*[0rfont] pour que \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,D\/\f[R]0\/\fP\s[1000u]\(EQ\h'12676u-6356u'\E*[0rfont] soit \[u00E9]gal \[u00E0] \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\f[R]\,2\/\fP\f[R]\,.\/\fP\h'17M'\f[R]\,5\/\fP\h'28M'\,V\/\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2.3. Trouver le gain \[u00E0] vide\ \ \ \ \ \ \ \ 1
+.in -5n
+.br
+.in +5n
+2.4. Trouver \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,r\/\Z\(EQ\v'1606u'\s[700u]\h'-204u'\,d\&s\/\s[1000u]\(EQ\h'9547u-3987u'\E*[0rfont] et \&\E*[0sfont]\f[I]\s'\En[0ssize]u'\,V\/\Z\(EQ\v'1606u'\s[700u]\h'-1636u'\,A\&F\/\s[1000u]\(EQ\h'13685u-6356u'\E*[0rfont]\ \ \ \ \ \ \ \ 1
+.in -5n
